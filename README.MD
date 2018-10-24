@@ -1,6 +1,8 @@
 # 101 JWT & with Express
 
 ## how to run
+npm install express jsonwebtoken 
+npm install -g nodemon
 nodemon
 
 ##Useful links: 
